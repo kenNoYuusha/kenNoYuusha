@@ -14,11 +14,6 @@
 - ⚔️ **Habilidades estilo Ren Amaki**:
   - Defensa sólida: hago pruebas y revisiones de código para evitar errores 💪
   - Evolución constante: cada día busco aprender algo nuevo y mejorar mi código ⚙️
-
----
-
-### 📫 Conéctate conmigo
-- 📧 [Mi correo](mailto:jestevez1709@gmail.com)
 - 🎌 **Hobbies**: Anime, Juegos gacha (Genshin Impact, Honkai Star Rail), ¡y crear proyectos divertidos!
 
 ---
